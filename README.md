@@ -4,9 +4,6 @@
 
 <h3 align="center">My name is javad and I'm a backend developer, from Iran</h3>
 
-###
-
-<br>
 
 <h2 align="center">My specialties</h2>
 
