@@ -4,6 +4,7 @@
 
 <h3 align="center">My name is javad and I'm a backend developer, from Iran</h3>
 
+<br>
 
 <h2 align="center">My specialties</h2>
 
@@ -29,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
 </div>
 
-<br>
+<br><br>
 
 <h2 align="center">My social media</h2>
 
