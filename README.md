@@ -6,13 +6,13 @@
 
 ###
 
-<p align="left"></p>
-
-###
+<br>
 
 <h2 align="center">My specialties</h2>
 
 ###
+
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
@@ -34,17 +34,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
 </div>
 
-###
-
-<p align="left"></p>
-
-###
 
 <h2 align="center">My social media</h2>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://www.instagram.com/mjavad9876" target="_blank">
@@ -55,11 +48,7 @@
   </a>
 </div>
 
-###
-
-<p align="left"></p>
-
-###
+<br>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/javad0am/count.svg?"  />
